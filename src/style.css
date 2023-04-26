@@ -67,6 +67,7 @@ body {
 
 .container .img-text img {
     margin-right: 80px;
+    width: 700px;
 }
 
 .container .img-text h2 {
@@ -119,6 +120,7 @@ body {
 
     .container .img-text p {
         font-size: 1em;
+        text-align: center;
     }
 
     .container .img-text .btn {
@@ -161,6 +163,6 @@ body {
 
     .footer .footer-links a {
         font-size: 1.5em;
-        
+        padding: 10px;
     }
 }
